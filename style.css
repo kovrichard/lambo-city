@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: #000;
+  margin: 0;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.fit-screen {
+
+  max-height: 100vh;
+  max-width: 100%;
+}
